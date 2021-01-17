@@ -3,4 +3,4 @@ Notes for papers on recommender systems.
 
 Based on the course [CSE291](https://cseweb.ucsd.edu/classes/fa17/cse291-b/) at UCSD by professor [Julian McAuley](http://cseweb.ucsd.edu/~jmcauley/).
 
-In case the course webpage is gone, it is archived here
+In case the course webpage is gone, it is archived [here](https://github.com/YundingWu/RecSys-Papers-Notes/blob/main/CSE%20291.pdf).
