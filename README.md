@@ -5,6 +5,8 @@ Based on the course [CSE 291](https://cseweb.ucsd.edu/classes/fa17/cse291-b/) at
 
 In case the course webpage is gone, it is archived [here](./webpage_archive.pdf).
 
+If math equations are not showing for you, please install [MathJax plugin for GitHub](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima).
+
 ## 1. Background
 
 ### Matrix Factorization
