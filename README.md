@@ -11,7 +11,7 @@ Please use [Typora](https://typora.io/) to render Markdown documents for intende
 
 ### Matrix Factorization
 
-- Matrix Factorization Techniques for Recommender Systems (Koren et al., 2009) | [Paper](Papers/1.1.1.pdf) | [Notes](Notes/1.1.1.md)
+- Matrix Factorization Techniques for Recommender Systems (Koren et al., 2009) | [Paper](Papers/1.1.1.pdf) | [Notes](Notes/1.1.1.pdf)
 
 - The Bellkor 2008 Solution to the Netflix Prize (Bell et al., 2008) | [Paper](Papers/1.1.2.pdf) | [Notes](Notes/1.1.2.md)
 
